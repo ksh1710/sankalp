@@ -4,6 +4,8 @@
 
 Sankalp is a comprehensive platform designed to provide support and assistance to individuals struggling with drug addiction. This repository contains the Flutter application, a Kotlin version using Compose for user interaction, and a React-based website that serves as an informational hub and connection point for NGOs, therapists, doctors, and other mental health practitioners.
 
+![You Are Not Alone](https://media.giphy.com/media/V0UVbB1tZCL3ov0Iwx/giphy.gif)
+
 ## Features
 
 * **User Onboarding:** Seamless onboarding process for NGOs, therapists, doctors, and mental health practitioners.
@@ -18,13 +20,13 @@ Sankalp is a comprehensive platform designed to provide support and assistance t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sankalp-help-flutter.git
+git clone https://github.com/rachit-goyal1071/sankalp.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd sankalp-help-flutter
+cd sankalp_help
 ```
 
 3. Install dependencies:
@@ -32,6 +34,7 @@ cd sankalp-help-flutter
 ```bash
 flutter pub get
 ```
+<img src="./readme_assets/flutterapp.jpeg" alt="Image1" width="300">
 
 **Usage**
 
@@ -41,9 +44,27 @@ Run the application on your preferred Flutter environment.
 
 Contributions are welcome! Please follow the contribution guidelines.
 
+
 ## Kotlin (Compose) Version
 
-The Kotlin version using Compose is available in a separate repository: `sankalp-help-compose`.
+The Kotlin version using Compose is available in a separate repository: `sankalp_user`.
+
+**Installation**
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rachit-goyal1071/sankalp.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd sankalp_user
+```
+
+<img src="./readme_assets/kotlinapp1.jpeg" alt="Image1" width="300">
+<img src="./readme_assets/kotlinapp2.jpeg" alt="Image1" width="300">
 
 ## React Website
 
@@ -56,7 +77,7 @@ If you want to run the React app locally for development or testing purposes, fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sankalp-help-react.git
+git clone https://github.com/rachit-goyal1071/sankalp.git
 
 ```
 ### Navigate to the project directory:
@@ -71,6 +92,9 @@ yarn install
 ```bash
 yarn start
 ```
+
+<img src="./readme_assets/webapp1.jpeg" alt="Image1" width="400">
+<img src="./readme_assets/webapp2.jpeg" alt="Image1" width="400">
 
 ## Backend
 
@@ -88,7 +112,7 @@ This project is licensed under the MIT License.
 
 For any inquiries or support, please contact us at `sankalp.help@example.com`.
 
-I hope this is helpful!
+![You Are Not Alone](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG4wNGlpNHg4amdsNmdmeHZ5emZoNDJieGFkM2VvcXN4bHJwb2lvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uhBqa2QQiwS3v98m1I/giphy.gif)
 
 ## Conrtibutors
 [![Contributors](https://contrib.rocks/image?repo=rachit-goyal1071/sankalp)](https://github.com/rachit-goyal1071/sankalp/graphs/contributors)
